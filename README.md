@@ -15,3 +15,11 @@ After line 20 there are a set of configurations that are important to me, maybe 
 Ok, now is the show time.
 
 Just run `./install.sh` (maybe you need to give execution permission, `chmod +x install.sh`). It will prompt for your password a few times, keep your eyes on the terminal.
+
+## What if I want to backup my brew apps?
+
+Fear not!
+
+You can override the Brewfile using your current set.
+
+Run `brew bundle dump` and it will replace the existing `Brewfile`
