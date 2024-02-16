@@ -1,4 +1,4 @@
-# Make my make great again
+# Make my mac great again
 
 Basically this is a script that make somethings "automagically" to speed up new MacOs installation.
 
